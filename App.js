@@ -32,7 +32,6 @@ const Stack =createStackNavigator();
           }}
           />
         </Stack.Navigator>
-        {/* <HomeScreen /> */}
       </SafeAreaProvider>
       </NavigationContainer>
     </Provider>
